@@ -63,7 +63,7 @@
           </svg>
           友情链接
         </button>
-        <p class="copyright">Copyright © 2025 Nav-Item | <a href="https://github.com/eooce/Nav-Item" target="_blank" class="footer-link">Powered by eooce</a></p>
+        <p class="copyright">Copyright © 2025 | <a href="https://library.smile-reading.com" target="_blank" class="footer-link">Powered by Smile</a></p>
       </div>
     </footer>
 
@@ -736,4 +736,5 @@ function handleLogoError(event) {
     gap: 20px;
   }
 }
+
 </style> 
